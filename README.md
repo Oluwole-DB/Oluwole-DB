@@ -27,7 +27,7 @@ PostgreSQ
 
 - 💻 &nbsp; Java | Python
 - 🌐 &nbsp; AWS compute | networking |database | security services
-- 🌐 &nbsp; PostgreSQ
+- 🌐 &nbsp; PostgreSQL
 
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Oluwole-DB)
