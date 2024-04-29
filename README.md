@@ -25,7 +25,7 @@ PostgreSQ
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Javascript | Python
+- 💻 &nbsp; Java | Python
 - 🌐 &nbsp; Python | Java
 - 🌐 &nbsp; AWS compute | networking |database | security services
 - 🌐 &nbsp; PostgreSQ
